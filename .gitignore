@@ -1,0 +1,10 @@
+.DS_STORE
+artifacts/
+cache/
+db/
+deployments/hardhat
+deployments/localhost
+node_modules/
+1.txt
+abigen/
+
