@@ -1,10 +1,8 @@
-.DS_STORE
+.DS_Store
 artifacts/
 cache/
 db/
 deployments/hardhat
 deployments/localhost
 node_modules/
-1.txt
-abigen/
 
